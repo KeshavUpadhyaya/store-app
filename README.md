@@ -2,3 +2,4 @@
 
 - React
 - Vite
+- MUI
